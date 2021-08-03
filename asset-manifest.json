@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sebellko.github.io/awmpage/static/css/main.f586cfc3.chunk.css",
+    "main.js": "/sebellko.github.io/awmpage/static/js/main.ad771e80.chunk.js",
+    "main.js.map": "/sebellko.github.io/awmpage/static/js/main.ad771e80.chunk.js.map",
+    "runtime-main.js": "/sebellko.github.io/awmpage/static/js/runtime-main.36fb8ce7.js",
+    "runtime-main.js.map": "/sebellko.github.io/awmpage/static/js/runtime-main.36fb8ce7.js.map",
+    "static/js/2.9e830e55.chunk.js": "/sebellko.github.io/awmpage/static/js/2.9e830e55.chunk.js",
+    "static/js/2.9e830e55.chunk.js.map": "/sebellko.github.io/awmpage/static/js/2.9e830e55.chunk.js.map",
+    "static/js/3.928b9b8f.chunk.js": "/sebellko.github.io/awmpage/static/js/3.928b9b8f.chunk.js",
+    "static/js/3.928b9b8f.chunk.js.map": "/sebellko.github.io/awmpage/static/js/3.928b9b8f.chunk.js.map",
+    "index.html": "/sebellko.github.io/awmpage/index.html",
+    "static/css/main.f586cfc3.chunk.css.map": "/sebellko.github.io/awmpage/static/css/main.f586cfc3.chunk.css.map",
+    "static/js/2.9e830e55.chunk.js.LICENSE.txt": "/sebellko.github.io/awmpage/static/js/2.9e830e55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36fb8ce7.js",
+    "static/js/2.9e830e55.chunk.js",
+    "static/css/main.f586cfc3.chunk.css",
+    "static/js/main.ad771e80.chunk.js"
+  ]
+}
