@@ -1,0 +1,99 @@
+* {margin: 0; padding: 0; border: 0;}
+
+.goods_wrapper
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 5vw;
+    overflow-x: hidden;
+}
+
+.goods_wrapper span
+{
+    text-shadow: rgba(128, 128, 128, 0.5) 2px 5px;
+    cursor: pointer;
+    margin-left: 7vw;
+}
+
+.sswrapper
+{
+    margin-top: 5vw;
+    
+}
+
+.sswrapper div
+{
+    margin: auto;
+    width: 80vw;
+    display: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.5);
+    transition: all 0.5s ease-in-out;
+    opacity: 0;
+}
+
+.fwwrapper
+{
+    margin-top: 5vw;
+}
+
+.fwwrapper div
+{
+    margin: auto;
+    width: 80vw;
+    display: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.5);
+    transition: all 1s ease-in-out;
+    opacity: 0;
+}
+
+.etcwrapper
+{
+    margin-top: 5vw;
+}
+
+.etcwrapper div
+{
+    margin: auto;
+    width: 80vw;
+    display: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 5vw;
+    justify-content: center;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.5);
+    transition: all 1s ease-in-out;
+    opacity: 0;
+}
+
+.goods_wrapper img
+{
+    width: 30vh;
+    height: 30vh;
+    border-radius: 5px;
+    margin: 2vw 2vw;
+}
+
+.text_goods
+{
+    display: block;
+    font-size: 5vw;
+    font-weight: bold;
+    margin: auto;
+    opacity: 0;
+    transition: 0.8s ease-in-out;
+}
+
+.goods_container
+{
+    display: none;
+    opacity: 0;
+    transition: all 0.8s ease-in-out;
+}
